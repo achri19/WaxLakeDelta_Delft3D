@@ -3,7 +3,7 @@
 
 Repository for Delft3D model described in 
 
-### *Christensen, Alexandra, et al. "Simulating hydrological connectivity and water age within a coastal deltaic floodplain of the Mississippi River Delta."  Estuarine, Coastal and Shelf Science 245 (2020): 106995.*
+### [*Christensen, Alexandra, et al. "Simulating hydrological connectivity and water age within a coastal deltaic floodplain of the Mississippi River Delta."  Estuarine, Coastal and Shelf Science 245 (2020): 106995.*](https://www.sciencedirect.com/science/article/pii/S0272771420307265)
 
 Includes files for January-March 2015 simulation
 
